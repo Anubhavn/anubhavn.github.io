@@ -4,7 +4,7 @@ layout: default
 
 # Hi There! 
 
-This is my page. Here are some of the expository papers I have written:
+I'm an undergraduate math major at the University of Chicago! Here are some of the expository papers I have written:
 
 - [An Introduction to Brownian Motion](/An_Introduction_to_Brownian_Motion (2).pdf)
 - [The Fourier Operator and The Characteristic Function](/Bootcamp_Probability_Lecture.pdf)
