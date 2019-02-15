@@ -4,7 +4,7 @@ layout: default
 
 # Hi There! 
 
-I'm an undergraduate math major at the University of Chicago! Here are some of the expository papers I have written:
+I'm an undergraduate math major at the University of Chicago, and president and founder of the [UChicago Applied Mathematics Club (UCAMC)](https://ucamc.github.io/)! Here are some of the expository papers I have written:
 
 - [An Introduction to Brownian Motion](/An_Introduction_to_Brownian_Motion (2).pdf)
 - [The Fourier Operator and The Characteristic Function](/Bootcamp_Probability_Lecture.pdf)
