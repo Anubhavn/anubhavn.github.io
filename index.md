@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Hello world
+# Hi There! 
 
-This is my page.
+This is my page. Here are some of the exposition papers I have written:
 
 - [An Introduction to Brownian Motion](/An_Introduction_to_Brownian_Motion (2).pdf)
 - [The Fourier Operator and The Characteristic Function](/Bootcamp_Probability_Lecture.pdf)
