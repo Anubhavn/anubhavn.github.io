@@ -11,4 +11,4 @@ I'm an undergraduate math major at the University of Chicago, and president and 
 - [A Brief Introduction to Differential Forms in R^n and the Gauss-Bonnet Theorem](/Nanavaty_FINAL.pdf)
 - [Qualitative and Quantitative Analysis of Autonomous ODE's](/Bootcamp_ODE_Lecture_7_3_18.pdf)
 
-[logo]: https://github.com/Anubhavn/anubhavn.github.io/blob/master/IMG_8715.jpg "Anubhav Picture"
+## ![Here's a picture of me:](IMG_8715.jpg)
