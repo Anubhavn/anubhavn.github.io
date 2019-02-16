@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 logo: IMG_8715.jpeg
+plugins:
+  - jekyll-seo-tag
