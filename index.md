@@ -4,7 +4,7 @@ layout: default
 
 # Hi There! 
 
-I'm a second year PhD student at the University of California, Irvine. My advisor is [Jesse Wolfson](https://jpwolfson.com/). I am interested in studying the topology of algebraic/analytic varieties and their applications to number theory, using concepts and tools that have emerged from the philosophy of motives. As an undergraduate, I was president and founder of the [UChicago Applied Mathematics Club (UCAMC)](https://ucamc.github.io/).
+I'm a second year PhD student at the University of California, Irvine. My advisor is [Jesse Wolfson](https://jpwolfson.com/). I am interested in studying the topology of algebraic/analytic varieties and their applications to number theory, using concepts and tools that have emerged from the philosophy of motives. As an undergraduate, I was created the [UChicago Applied Mathematics Club (UCAMC)](https://ucamc.github.io/).
 
 Preprints:
 - [The Standard Realizations for the K-Theory of Varieties](https://arxiv.org/abs/2107.01168) (with [Oliver Braunling](https://www.braunling.org/) and [Michael Groechenig](http://individual.utoronto.ca/groechenig/)). Submitted for publication.
