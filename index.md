@@ -15,4 +15,4 @@ Expository Papers:
 - [An Introduction to Brownian Motion](/An_Introduction_to_Brownian_Motion (2).pdf)
 - [The Fourier Operator and The Characteristic Function](/Bootcamp_Probability_Lecture.pdf)
 - [An Introduction to Wall's Obstruction Theorem](/Wall_s_Obstruction_Theorem.pdf)
-- [A Very Brief Introduction to the Path Integral in QM](An_Introduction_to_Feynman_Path_Integral_Formalism (3).pdf)
+- [A Very Brief Introduction to the Path Integral in QM](/An_Introduction_to_Feynman_Path_Integral_Formalism (3).pdf)
