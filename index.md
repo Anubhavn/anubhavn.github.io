@@ -4,12 +4,15 @@ layout: default
 
 # Hi There! 
 
-I'm an undergraduate math major at the University of Chicago, and president and founder of the [UChicago Applied Mathematics Club (UCAMC)](https://ucamc.github.io/). Here are some of the expository papers I have written:
+I'm a second year PhD student at the University of California, Irvine. My advisor is [Jesse Wolfson](https://jpwolfson.com/). I am interested in studying the topology of algebraic/analytic varieties and their applications to number theory, using concepts and tools that have emerged from the philosophy of motives. As an undergraduate, I was president and founder of the [UChicago Applied Mathematics Club (UCAMC)](https://ucamc.github.io/).
+
+Preprints:
+-[The Standard Realizations for the K-Theory of Varieties](https://arxiv.org/abs/2107.01168). Submitted for Publication.
+
+
+Expository Papers:
 
 - [An Introduction to Brownian Motion](/An_Introduction_to_Brownian_Motion (2).pdf)
 - [The Fourier Operator and The Characteristic Function](/Bootcamp_Probability_Lecture.pdf)
-- [A Brief Introduction to Differential Forms in R^n and the Gauss-Bonnet Theorem](/Nanavaty_FINAL.pdf)
-- [Qualitative and Quantitative Analysis of Autonomous ODE's](/Bootcamp_ODE_Lecture_7_3_18.pdf)
 - [An Introduction to Wall's Obstruction Theorem](/Wall_s_Obstruction_Theorem.pdf)
-- [A Brief Introduction to Category theory](/PT_II_of_Finite_Spaces (2).pdf)
 - [A Very Brief Introduction to the Path Integral in QM](An_Introduction_to_Feynman_Path_Integral_Formalism (3).pdf)
