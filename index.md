@@ -4,11 +4,13 @@ layout: default
 
 # Hi There! 
 
-I'm a rising second year PhD student at the University of California, Irvine. My advisor is [Jesse Wolfson](https://jpwolfson.com/). I am interested in studying the topology of algebraic/analytic varieties and their applications to number theory, using concepts and tools that have emerged from the philosophy of motives. As an undergraduate, I created the [UChicago Applied Mathematics Club (UCAMC)](https://ucamc.github.io/). Currently, I am a middle school mentor at [Math CEO](https://sites.ps.uci.edu/mathceo/), a community educational outreach program designed to increase the number of talented students from diverse backgrounds who pursue higher education in STEM and/or STEM careers.
+I'm a third year PhD student at the University of California, Irvine. My advisor is [Jesse Wolfson](https://jpwolfson.com/). I am interested in studying the topology of algebraic/analytic varieties and their applications to number theory, using concepts and tools that have emerged from the philosophy of motives. As an undergraduate, I created the [UChicago Applied Mathematics Club (UCAMC)](https://ucamc.github.io/). Currently, I am a middle school mentor at [Math CEO](https://sites.ps.uci.edu/mathceo/), a community educational outreach program designed to increase the number of talented students from diverse backgrounds who pursue higher education in STEM and/or STEM careers.
 
 Preprints:
 - [The Standard Realizations for the K-Theory of Varieties](https://arxiv.org/abs/2107.01168) (with [Oliver Braunling](https://www.braunling.org/) and [Michael Groechenig](http://individual.utoronto.ca/groechenig/)). Submitted for publication.
 
+In Preparation:
+- [A Gillet-Soulé Approach to Derived Motivic Measures]
 
 Expository Papers:
 
