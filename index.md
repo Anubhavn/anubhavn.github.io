@@ -4,7 +4,7 @@ layout: default
 
 # Hi There! 
 
-I'm a fourth year PhD candidate at the University of California, Irvine. My advisor is [Jesse Wolfson](https://jpwolfson.com/). I am interested in studying the topology of algebraic/analytic varieties and their applications to number theory, using concepts and tools that have emerged from the philosophy of motives. I am also interested in topological phases of matter. Here is my [CV](CV (8).pdf)
+I'm a fourth year PhD candidate at the University of California, Irvine. My advisor is [Jesse Wolfson](https://jpwolfson.com/). I am interested in studying the topology of algebraic/analytic varieties and their applications to number theory, using concepts and tools that have emerged from the philosophy of motives. I am also interested in topological phases of matter. Here is my [CV](CV_1:17:24.pdf)
 
 Preprints:
 - [The Standard Realizations for the K-Theory of Varieties](https://arxiv.org/abs/2107.01168) (with [Oliver Braunling](https://www.braunling.org/) and [Michael Groechenig](http://individual.utoronto.ca/groechenig/)). Submitted for publication.
