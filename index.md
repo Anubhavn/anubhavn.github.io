@@ -9,7 +9,7 @@ I'm a fourth year PhD candidate at the University of California, Irvine. My advi
 Preprints:
 - [The Standard Realizations for the K-Theory of Varieties](https://arxiv.org/abs/2107.01168) (with [Oliver Braunling](https://www.braunling.org/) and [Michael Groechenig](http://individual.utoronto.ca/groechenig/)). Submitted for publication.
   
-- [Weight Filtrations and Derived Motivic Measures](https://arxiv.org/abs/2401.06879).
+- [Weight Filtrations and Derived Motivic Measures](https://arxiv.org/abs/2401.06879). Submitted for publication.
 
 In Preparation:
 - A Filtration on the Space of Symmetric Matrices of Fixed Rank
