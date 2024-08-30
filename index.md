@@ -14,7 +14,7 @@ Preprints:
 - [Weight Filtrations and Derived Motivic Measures](https://arxiv.org/abs/2401.06879). Submitted for publication.
 
 In Preparation:
-- A Filtration on the Space of Symmetric Matrices of Fixed Rank
+- Promoting Point Counts to Motivic Decompositions: Symmetric Matrices
 
 Expository Papers:
 
