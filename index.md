@@ -13,8 +13,7 @@ Preprints:
   
 - [Weight Filtrations and Derived Motivic Measures](https://arxiv.org/abs/2401.06879). Submitted for publication.
 
-In Preparation:
-- Promoting Point Counts to Motivic Decompositions: Symmetric Matrices
+- [Motivic Splittings For Symmetric Matrices](https://arxiv.org/abs/2410.09026). 
 
 Expository Papers:
 
