@@ -11,9 +11,9 @@ I did my bachelors in mathematics from the University of Chicago, where I ran th
 Preprints:
 - [The Standard Realizations for the K-Theory of Varieties](https://arxiv.org/abs/2107.01168) (with [Oliver Braunling](https://www.braunling.org/) and [Michael Groechenig](http://individual.utoronto.ca/groechenig/)). Submitted for publication.
   
-- [Weight Filtrations and Derived Motivic Measures](https://arxiv.org/abs/2401.06879). Submitted for publication.
+- [Weight Filtrations and Derived Motivic Measures](https://arxiv.org/abs/2401.06879) Submitted for publication.
 
-- [Motivic Splittings For Symmetric Matrices](https://arxiv.org/abs/2410.09026). 
+- [Motivic Splittings For Symmetric Matrices](https://arxiv.org/abs/2410.09026)
 
 Expository Papers:
 
