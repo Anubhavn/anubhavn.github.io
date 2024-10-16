@@ -10,7 +10,7 @@ I did my bachelors in mathematics from the University of Chicago, where I ran th
 
 Preprints:
 
--[Dehn-Sydler-Jessen Via Homological Algebra](/DehnSydlerJessen1015.pdf)
+- [Dehn-Sydler-Jessen Via Homological Algebra](/DehnSydlerJessen1015.pdf)
 
 - [Motivic Splittings For Symmetric Matrices](https://arxiv.org/abs/2410.09026)
   
