@@ -13,9 +13,9 @@ Preprints:
 -[Dehn-Sydler-Jessen Via Homological Algebra](/DehnSydlerJessen1015.pdf)
 
 - [Motivic Splittings For Symmetric Matrices](https://arxiv.org/abs/2410.09026)
-- 
+  
 - [Weight Filtrations and Derived Motivic Measures](https://arxiv.org/abs/2401.06879) Submitted for publication.
-- 
+  
 - [The Standard Realizations for the K-Theory of Varieties](https://arxiv.org/abs/2107.01168) (with [Oliver Braunling](https://www.braunling.org/) and [Michael Groechenig](http://individual.utoronto.ca/groechenig/)). Submitted for publication.
 
 
