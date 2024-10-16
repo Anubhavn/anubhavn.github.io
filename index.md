@@ -25,3 +25,7 @@ Expository Papers:
 - [The Fourier Operator and The Characteristic Function](/Bootcamp_Probability_Lecture.pdf)
 - [An Introduction to Wall's Obstruction Theorem](/Wall_s_Obstruction_Theorem.pdf)
 - [A Very Brief Introduction to the Path Integral in QM](/An_Introduction_to_Feynman_Path_Integral_Formalism (3).pdf)
+
+Translations:
+
+- [Ludwig Bieberbach's: Remarks on Hilbert's Thirteenth Problem and Addendum](/Bieberbach_Translated_Final.pdf)
