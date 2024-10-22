@@ -28,4 +28,4 @@ Expository Papers:
 
 Translations:
 
-- [Ludwig Bieberbach's: "Remarks on Hilbert's Thirteenth Problem and Addendum"](/Bieberbach_Translated_Final.pdf)
+- [Ludwig Bieberbach's: "Remarks on Hilbert's Thirteenth Problem" and Addendum](/Bieberbach_Translated_Final.pdf)
