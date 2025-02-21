@@ -9,9 +9,9 @@ I did my bachelors in mathematics from the University of Chicago, where I ran th
 
 Preprints:
 
-- [Dehn-Sydler-Jessen Via Homological Algebra](/DehnSydlerJessen1015.pdf)
+- [Dehn-Sydler-Jessen Via Homological Algebra](/DehnSydlerJessen1015.pdf) Submitted for publication.
 
-- [Motivic Splittings For Symmetric Matrices](https://arxiv.org/abs/2410.09026)
+- [Motivic Splittings For Symmetric Matrices](https://arxiv.org/abs/2410.09026) Submitted for publication.
   
 - [Weight Filtrations and Derived Motivic Measures](https://arxiv.org/abs/2401.06879) Submitted for publication.
   
