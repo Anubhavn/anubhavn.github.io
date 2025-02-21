@@ -9,11 +9,11 @@ I did my bachelors in mathematics from the University of Chicago, where I ran th
 
 Preprints:
 
-- [Dehn-Sydler-Jessen Via Homological Algebra](/DehnSydlerJessen1015.pdf) Submitted for publication.
+- [Dehn-Sydler-Jessen Via Homological Algebra](/DehnSydlerJessen1015.pdf). Submitted for publication.
 
-- [Motivic Splittings For Symmetric Matrices](https://arxiv.org/abs/2410.09026) Submitted for publication.
+- [Motivic Splittings For Symmetric Matrices](https://arxiv.org/abs/2410.09026). Submitted for publication.
   
-- [Weight Filtrations and Derived Motivic Measures](https://arxiv.org/abs/2401.06879) Submitted for publication.
+- [Weight Filtrations and Derived Motivic Measures](https://arxiv.org/abs/2401.06879). Submitted for publication.
   
 - [The Standard Realizations for the K-Theory of Varieties](https://arxiv.org/abs/2107.01168) (with [Oliver Braunling](https://www.braunling.org/) and [Michael Groechenig](http://individual.utoronto.ca/groechenig/)). Submitted for publication, in revision.
 
