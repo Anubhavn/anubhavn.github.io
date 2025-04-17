@@ -9,8 +9,6 @@ I did my bachelors in mathematics from the University of Chicago, where I ran th
 
 Preprints:
 
-- [Dehn-Sydler-Jessen Via Homological Algebra](/DehnSydlerJessen1015.pdf). Submitted for publication.
-
 - [Motivic Splittings For Symmetric Matrices](https://arxiv.org/abs/2410.09026). Submitted for publication.
   
 - [Weight Filtrations and Derived Motivic Measures](https://arxiv.org/abs/2401.06879). Submitted for publication.
@@ -20,7 +18,7 @@ Preprints:
 
 
 Expository Papers:
-
+- [Dehn-Sydler-Jessen Via Homological Algebra](/DehnSydlerJessen1015.pdf)
 - [An Introduction to Brownian Motion](/An_Introduction_to_Brownian_Motion (2).pdf)
 - [The Fourier Operator and The Characteristic Function](/Bootcamp_Probability_Lecture.pdf)
 - [An Introduction to Wall's Obstruction Theorem](/Wall_s_Obstruction_Theorem.pdf)
