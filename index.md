@@ -3,9 +3,9 @@ layout: default
 ---
 
 
-I'm a fifth-year PhD candidate at the University of California, Irvine. My advisor is [Jesse Wolfson](https://jpwolfson.com/). I am interested in studying the topology of algebraic/analytic varieties and their applications to number theory. I am also interested in topological phases of matter. Here is my [CV](/CV (12).pdf)
+I'm an H.C. Wang Assistant Professor in mathematics at Cornell University. I did my PhD at UC Irvine, advised by [Jesse Wolfson](https://jpwolfson.com/). I am interested in studying the topology of algebraic varieties and their applications to number theory. I am also interested in topological phases of matter. Here is my [CV](/CV (12).pdf)
 
-I did my bachelors in mathematics from the University of Chicago, where I ran the undergradate [applied mathematics club!](https://ucamc.github.io/)
+I did my bachelors in mathematics from the University of Chicago, where I ran the undergradate [applied mathematics club!](https://ucamc.github.io/).
 
 Preprints:
 
