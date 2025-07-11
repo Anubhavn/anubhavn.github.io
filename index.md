@@ -7,6 +7,8 @@ I'm an H.C. Wang Assistant Professor in mathematics at Cornell University. I did
 
 I did my bachelors in mathematics from the University of Chicago, where I ran the undergradate [applied mathematics club!](https://ucamc.github.io/).
 
+Email: nanavaty_at_cornell.edu
+
 Preprints:
 
 - [Motivic Splittings For Symmetric Matrices](https://arxiv.org/abs/2410.09026). Submitted for publication.
