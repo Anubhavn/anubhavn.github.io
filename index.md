@@ -11,7 +11,7 @@ Email: nanavaty_at_cornell.edu
 
 Preprints:
 
-- [Motivic Splittings For Symmetric Matrices](https://arxiv.org/abs/2410.09026). Submitted for publication.
+- [Motivic Splittings For Symmetric Matrices](https://arxiv.org/abs/2410.09026). To Appear in *Higher Structures*.
   
 - [Weight Filtrations and Derived Motivic Measures](https://arxiv.org/abs/2401.06879). Submitted for publication.
   
