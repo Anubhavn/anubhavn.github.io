@@ -15,7 +15,7 @@ Preprints:
   
 - [Weight Filtrations and Derived Motivic Measures](https://arxiv.org/abs/2401.06879). Submitted for publication.
   
-- [The Standard Realizations for the K-Theory of Varieties](https://arxiv.org/abs/2107.01168) (with [Oliver Braunling](https://www.braunling.org/) and [Michael Groechenig](http://individual.utoronto.ca/groechenig/)). To Appear in *Higher Structures*.
+- [The Standard Realizations for the K-Theory of Varieties](https://arxiv.org/abs/2107.01168) (with [Oliver Braunling](https://www.braunling.org/) and [Michael Groechenig](http://individual.utoronto.ca/groechenig/)). *Higher Structures*.
 
 
 
@@ -25,6 +25,7 @@ Expository Papers:
 - [The Fourier Operator and The Characteristic Function](/Bootcamp_Probability_Lecture.pdf)
 - [An Introduction to Wall's Obstruction Theorem](/Wall_s_Obstruction_Theorem.pdf)
 - [A Very Brief Introduction to the Path Integral in QM](/An_Introduction_to_Feynman_Path_Integral_Formalism (3).pdf)
+- [An Intro to Differential Forms and First Theorems]-(/StokesThm.pdf)
 
 Translations:
 
