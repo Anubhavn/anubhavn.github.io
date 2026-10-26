@@ -168,6 +168,32 @@ ul.items li p { margin: 0; }
 }
 .card span { font-size: 1rem; color: var(--muted); }
 
+/* Teaching */
+ul.courses { list-style: none; padding: 0; margin: 0; }
+ul.courses li {
+  display: grid;
+  grid-template-columns: 8.5rem 1fr;
+  gap: 1rem;
+  align-items: baseline;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+ul.courses li:last-child { border-bottom: 0; }
+.term {
+  font-size: .8rem;
+  font-weight: 600;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.course { font-size: 1.05em; font-weight: 500; }
+.course-code {
+  display: block;
+  font-size: .85rem;
+  font-weight: 400;
+  color: var(--muted);
+}
+
 /* Footer */
 .site-footer {
   margin-top: 5rem;
@@ -186,4 +212,5 @@ ul.items li p { margin: 0; }
   .intro img { width: 140px; height: 170px; }
   .intro h1 { font-size: 2rem; }
   .page-title { font-size: 1.9rem; }
+  ul.courses li { grid-template-columns: 1fr; gap: .25rem; }
 }
