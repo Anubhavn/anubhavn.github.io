@@ -1,32 +1,32 @@
 ---
 layout: default
+title: Home
 ---
 
+<div class="intro">
+  <img src="{{ '/assets/img/portrait.jpg' | relative_url }}" alt="Anubhav Nanavaty">
+  <div markdown="1">
+<h1>Anubhav Nanavaty</h1>
+<div class="role">H.C. Wang Assistant Professor &middot; Department of Mathematics, Cornell University</div>
 
-I'm an H.C. Wang Assistant Professor in mathematics at Cornell University. I did my PhD at UC Irvine, advised by [Jesse Wolfson](https://jpwolfson.com/). I am interested in studying the topology of algebraic varieties and their applications to number theory. I am also interested in topological phases of matter. Here is my [CV](/CV(19).pdf)
+I am interested in studying the topology of algebraic varieties and their applications to number theory. I am also interested in topological phases of matter.
 
-I did my bachelors in mathematics from the University of Chicago, where I ran the undergradate [applied mathematics club!](https://ucamc.github.io/).
+I did my PhD at UC Irvine, advised by [Jesse Wolfson](https://jpwolfson.com/). Before that, I did my bachelor's in mathematics at the University of Chicago, where I ran the undergraduate [applied mathematics club](https://ucamc.github.io/).
 
-Email: nanavaty_at_cornell.edu
+<div class="contact">
+  <span>nanavaty_at_cornell.edu</span>
+  <a href="{{ '/CV(19).pdf' | relative_url }}">CV (PDF)</a>
+</div>
+  </div>
+</div>
 
-Preprints:
-
-- [Motivic Splittings For Symmetric Matrices](https://arxiv.org/abs/2410.09026). Submitted for publication.
-  
-- [Weight Filtrations and Derived Motivic Measures](https://arxiv.org/abs/2401.06879). Submitted for publication.
-  
-- [The Standard Realizations for the K-Theory of Varieties](https://arxiv.org/abs/2107.01168) (with [Oliver Braunling](https://www.braunling.org/) and [Michael Groechenig](http://individual.utoronto.ca/groechenig/)). *Higher Structures*.
-
-
-
-Expository Papers:
-- [Dehn-Sydler-Jessen Via Homological Algebra](/DehnSydlerJessen1015.pdf)
-- [An Introduction to Brownian Motion](/An_Introduction_to_Brownian_Motion (2).pdf)
-- [The Fourier Operator and The Characteristic Function](/Bootcamp_Probability_Lecture.pdf)
-- [An Introduction to Wall's Obstruction Theorem](/Wall_s_Obstruction_Theorem.pdf)
-- [A Very Brief Introduction to the Path Integral in QM](/An_Introduction_to_Feynman_Path_Integral_Formalism (3).pdf)
-- [An Intro to Differential Forms and First Theorems](https://math.uchicago.edu/~may/REU2017/REUPapers/Nanavaty.pdf)
-
-Translations:
-
-- [Ludwig Bieberbach's: "Remarks on Hilbert's Thirteenth Problem" and Addendum](/Bieberbach_Translated_Final.pdf)
+<div class="cards">
+  <a class="card" href="{{ '/research/' | relative_url }}">
+    <strong>Research</strong>
+    <span>Papers and preprints.</span>
+  </a>
+  <a class="card" href="{{ '/expository/' | relative_url }}">
+    <strong>Expository</strong>
+    <span>Expository papers and translations.</span>
+  </a>
+</div>

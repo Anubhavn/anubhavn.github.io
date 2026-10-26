@@ -1,4 +1,12 @@
-theme: jekyll-theme-minimal
-logo: IMG_3288.JPG
+title: Anubhav Nanavaty
+description: H.C. Wang Assistant Professor of Mathematics at Cornell University
 plugins:
   - jekyll-seo-tag
+
+nav:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: Expository
+    url: /expository/
