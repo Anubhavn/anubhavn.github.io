@@ -13,7 +13,7 @@ permalink: /teaching/
   </li>
   <li>
     <span class="term">Spring 2026</span>
-    <span class="course"><span class="course-code">Topics in Topology</span> Algebraic K-Theory and Regulators</span>
+    <span class="course"><span class="course-code">Topics in Topology</span> Algebraic K-Theory and Borel's Regulator Map</span>
   </li>
   <li>
     <span class="term">Fall 2025</span>
